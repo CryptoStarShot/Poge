@@ -1,0 +1,51 @@
+html,
+body {
+  font-family: "Montserrat", sans-serif;
+  height: 100vh;
+  background-color: rgb(255, 240, 195);
+}
+
+.parallax {
+  /* The image used */
+  background-image: url("assets/pattern.png");
+  z-index: 2;
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: auto;
+}
+
+.parallax2 {
+  /* The image used */
+  background-image: url("assets/pattern2.png");
+  z-index: 2;
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: auto;
+}
+
+.parallax3 {
+  /* The image used */
+  background-image: url("assets/pattern3.png");
+  z-index: 2;
+
+  /* Full height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+  background-size: auto;
+}
